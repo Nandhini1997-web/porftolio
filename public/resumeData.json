@@ -1,0 +1,106 @@
+{
+    "main": {
+        "name": "Nandhini",
+        "occupation": "Front end developer",
+        "description": "Smiling,Easy going and Enthustiatic Developer",
+        "image": "bgimage.avif ",
+        "bio": "Hi there! This is Nandhini!! I have completed my Bachelor in COMPUTER Science. I'm very much interested in new technologies especially in IT field. I am always energetic and eager to learn new skills.Due to my interest, I've concluded my path to become a developer.",
+        "contactmessage": "Get in touch with me!!",
+        "email": "nandhudhana777@gmail.com",
+        "phone": "+91 9080204919",
+        "address": {
+            "street": "33 Narayana Street",
+            "city": "Chennai",
+            "state": "TamilNadu",
+            "zip": "600 023"
+        },
+        "resumedownload": "http://Nandhini.com",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/Nandhini Ukesh",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "http://www.linkedin.com/in/nandhini-dhanasekar-08045b160",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/nandhu_ukesh/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Nandhini1997-web",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Programming Language Proficiency",
+        "education": [
+            {
+                "school": "The Tarapore and Loganathan Higher Secondary School",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "April 2018",
+                "description": "Graduated with First Class"
+            }
+        ],
+        "work": [
+            {
+                "company": "BL Consultants",
+                "title": "HR Recruiter",
+                "years": "2019-2020",
+                "description": " I had a responsibilities include sourcing candidates online, updating job ads and conducting background checks. If you have experience with various job interview formats, including phone screenings and group interviews, and can help us recruit faster and more effectively"
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "HTML",
+                "level": "85%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "60%"
+            },
+            {
+                "name": "Git",
+                "level": "70%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+          {
+            "title": "Snapchat Clone (React JS)",
+            "category": "",
+            "image": "snapchat.jpg",
+            "url": "https://youtu.be/1kGISk5ft2w"
+          },
+          {
+            "title": "Gmail Clone (React JS)",
+            "category": "",
+            "image": "gmail.jpg",
+            "url": "https://youtu.be/b7nrXjS6Dqs"
+          },
+          {
+            "title": "LinkedIn Clone (React JS)",
+            "category": "",
+            "image": "linkedin.jpg",
+            "url": "https://youtu.be/QaYts9sPmcY"
+          }
+        ]
+      }
+    
+    
+}
